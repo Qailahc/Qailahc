@@ -7,7 +7,6 @@ Software Development Student
 I'm a student at CodeSpace Academy right now, and I signed up for their six-month Software Development course. enjoy coding, and if a challenge is required, I'm up for it. When my final project is successful and benefits others or makes their lives easier, I get a kick out of making apps and websites. My experience in software development has given me a broad skill set that enables me to effectively bridge the gap between design and implementation. I like the challenge of using code to make ideas come to life, whether it's developing responsive web applications or other solutions🌱.
 
 * 🌍  I'm based in Cape Town, South Africa
-* ✉️  You can contact me at [cqailah@gmailcom](mailto:cqailah@gmailcom)
 * 🧠  I'm learning HTML, CSS, Tailwind, JavaScript
 
 ### Skills - Tech Stack
@@ -18,7 +17,9 @@ I'm a student at CodeSpace Academy right now, and I signed up for their six-mont
 </p>
 
 
-### Socials
+### Socials - You can contact me at:
+
+* ✉️  Email: [cqailah@gmailcom](mailto:cqailah@gmailcom)
 
 <p align="left"> <a href="https://www.codepen.io/Qailahc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/qailahc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Qailahc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/iam.qailah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
