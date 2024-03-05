@@ -10,7 +10,7 @@ I'm a student at CodeSpace Academy right now, and I signed up for their six-mont
 * ✉️  You can contact me at [cqailah@gmailcom](mailto:cqailah@gmailcom)
 * 🧠  I'm learning HTML, CSS, Tailwind, JavaScript
 
-### Skills
+### Skills - Tech Stack
 
 
 <p align="left">
