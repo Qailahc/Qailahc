@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Student
 ----------------------------
 
-I'm a student at CodeSpace Academy right now, and I signed up for their six-month Software Development course. enjoy coding, and if a challenge is required, I'm up for it. When my final project is successful and benefits others or makes their lives easier, I get a kick out of making apps and websites. My experience in software development has given me a broad skill set that enables me to effectively bridge the gap between design and implementation. I like the challenge of using code to make ideas come to life, whether it's developing responsive web applications or other solutions🌱.
+As a current student at CodeSpace Academy, I am deeply immersed in their rigorous six-month Software Development course. My enhthusiasm for coding knows no bounds, and I thrive on tackling challenges head-on. When my final projects come to fruition and positively impact others or simplify their lives, I find immense satisfaction. Crafting apps and websites is not just a task; it's my passion.
+
+My software development journey has equipped me with a versatile skill set, allowing me to seamlessly bridge the gap between design concepts and their practical implementations. Whether I'm creating responsive web applications or other innovative solutions, I relish the opportunity to bring ideas to life through code🌱.
 
 * 🌍  I'm based in Cape Town, South Africa
 * 🧠  I'm learning HTML, CSS, Tailwind, JavaScript
