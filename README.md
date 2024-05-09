@@ -9,7 +9,7 @@ As a current student at CodeSpace Academy, I am deeply immersed in their rigorou
 My software development journey has equipped me with a versatile skill set, allowing me to seamlessly bridge the gap between design concepts and their practical implementations. Whether I'm creating responsive web applications or other innovative solutions, I relish the opportunity to bring ideas to life through code🌱.
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🧠  I'm learning HTML, CSS, Tailwind, JavaScript
+* 🧠  I'm learning HTML, CSS, Tailwind, JavaScript, React
 
 ### Skills - Tech Stack
 
