@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Qaiylah Conway🌱
 ======================================================================================================================================
 
-Software Development Student
+Software Developer
 ----------------------------
 
-As a current student at CodeSpace Academy, I am deeply immersed in their rigorous six-month Software Development course. My enhthusiasm for coding knows no bounds, and I thrive on tackling challenges head-on. When my final projects come to fruition and positively impact others or simplify their lives, I find immense satisfaction. Crafting apps and websites is not just a task; it's my passion.
+My enhthusiasm for coding knows no bounds, and I thrive on tackling challenges head-on. When my final projects come to fruition and positively impact others or simplify their lives, I find immense satisfaction. Crafting apps and websites is not just a task; it's my passion.
 
 My software development journey has equipped me with a versatile skill set, allowing me to seamlessly bridge the gap between design concepts and their practical implementations. Whether I'm creating responsive web applications or other innovative solutions, I relish the opportunity to bring ideas to life through code🌱.
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🧠  I'm learning HTML, CSS, Tailwind, JavaScript, APIs, React
+* 🧠  I'm fluent HTML, CSS, Tailwind, JavaScript, APIs, React
 
 ### Skills - Tech Stack
 
@@ -30,10 +30,3 @@ My software development journey has equipped me with a versatile skill set, allo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Qailahc"><img src="https://github-readme-stats.vercel.app/api?username=Qailahc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Qailahc's GitHub stats" /></a>
-
-- 👀
-- 🌱
-- 💞️ 
-- 📫 
-- 😄 
-- ⚡ 
