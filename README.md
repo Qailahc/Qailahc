@@ -21,7 +21,7 @@ My software development journey has equipped me with a versatile skill set, allo
 
 ### Socials - You can contact me at:
 
-* ✉️  Email: [cqailah@gmailcom](mailto:cqailah@gmailcom)
+* ✉️  Email: [cqailah@gmailcom](mailto:cqailah@gmail.com)
 
 
 ### Socials
