@@ -9,7 +9,7 @@ My enhthusiasm for coding knows no bounds, and I thrive on tackling challenges h
 My software development journey has equipped me with a versatile skill set, allowing me to seamlessly bridge the gap between design concepts and their practical implementations. Whether I'm creating responsive web applications or other innovative solutions, I relish the opportunity to bring ideas to life through code 🌱.
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🧠  I'm fluent in HTML, CSS, Tailwind, JavaScript, APIs, React and currently learning Ruby on Rails
+* 🧠  I'm fluent in CSS, Tailwind, JavaScript, APIs, React and currently learning Ruby on Rails
 
 ### Skills - Tech Stack
 
